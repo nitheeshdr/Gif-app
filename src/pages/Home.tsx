@@ -1,6 +1,6 @@
 import { GifGrid } from '@/components/GifGrid'
 import SearchBar from '@/components/SearchBar'
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 
 const Home = () => {
